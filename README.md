@@ -2,7 +2,7 @@ Simple website monitoring using Termux and Android.
 
 This script will test a site every five minutes. If it's down a notification will be shown. Tapping the notification will open the browser at the site URL.
 
-[![Site monitoring with Termux on Android](./video.png)](https://youtu.be/x8yEbKHMfjI "Site monitoring with Termux on Android")
+[![Site monitoring with Termux on Android](./youtube.png)](https://youtu.be/x8yEbKHMfjI "Site monitoring with Termux on Android")
 
 # How to
 
